@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kSTzVP5Rsy4MTuKPADEQ9OM6U0SGDFVa5nP8IyBIT5STfeM7snqkW2C5b9fg7QV6kviVMfbRveGFiA+JGzt1Tw==",
+  "dgSpecHash": "CEPbCA/KKIb3yF7fyhSG953G5hu0DNth03z5Fi5q/zKDq0qcguHXmPG5Tx6Qs9cd8iWO7bKPbdeNknMvlesdQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask\\DatabaseTask.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\DatabaseTaskHospital\\DatabaseTask\\DatabaseTask\\DatabaseTask\\DatabaseTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

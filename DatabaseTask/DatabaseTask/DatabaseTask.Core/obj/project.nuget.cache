@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8O00/4rg0DQFwtK/3OXtW2hJFtfj54ct+817+jcMrWGQ8O5o4Qm0OYHnW8FiHJ7ifSqZPqIVcEzuse2zIOxVUQ==",
+  "dgSpecHash": "5HOObZn+hsU0nzJfYGcG7qwC+Tr87pRjm+z23X5jQPANorMHvFJ6BqtEhDer3VqimKRR0HQvRlQ78HEDLuEBqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\DatabaseTask\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\DatabaseTaskHospital\\DatabaseTask\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
